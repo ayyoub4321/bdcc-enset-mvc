@@ -1,7 +1,11 @@
 # BDCC ENSET MVC - Application de Gestion des Produits
 
-## Auteur
-**Ayyoub Ait mansour**
+## Auteurs
+
+- **Nom :** Ayyoub  
+- **Prénom :** Ait mansour 
+- **Filière :**SDIA
+- **TP :** TP5
 
 
 ## Description
